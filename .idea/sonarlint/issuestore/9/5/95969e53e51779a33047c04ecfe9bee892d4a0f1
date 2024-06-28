@@ -1,0 +1,14 @@
+
+
+java:S2259É"GA "NullPointerException" could be thrown; "getCache()" can return null.(Ä¾ªùıÿÿÿÿ8¡Á÷î…2J$72e5f2a2-4176-48c6-954e-7c365e2652b6
+
+java:S2259‚"GA "NullPointerException" could be thrown; "getCache()" can return null.(Ä¾ªùıÿÿÿÿ8 Á÷î…2J$4b583839-3684-444a-944d-f4403ad0eba2
+‹
+java:S2259Å"GA "NullPointerException" could be thrown; "getCache()" can return null.(Äñ†Æ8¢Á÷î…2J$9142171f-c26b-459a-b5cc-2fcea9fd4f86
+’
+java:S1192"NDefine a constant instead of duplicating this literal "beerListCache" 4 times.(¿Î¡Ó8¬Á÷î…2J$2c20bd9f-7383-4592-9374-0851d91b21d1
+p
+java:S1602£",Remove useless curly braces around statement(Ö¤ŸÓ8¡Â÷î…2J$7f1439a7-fdc6-43b1-bd28-716aa9b43c70
+	java:S125¬"<This block of commented-out lines of code should be removed.(¸ÂË¯8ëã÷î…2J$6d1e9b3b-5748-42c5-a7df-6e26815dd45e
+p
+java:S1602ë",Remove useless curly braces around statement(Ö¤ŸÓ8¸Â÷î…2J$9aee9c48-f621-4d47-b87d-af887dde34e0

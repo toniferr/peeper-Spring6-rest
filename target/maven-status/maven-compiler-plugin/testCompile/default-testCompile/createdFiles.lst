@@ -1,0 +1,14 @@
+com/toniferr/spring6restmvc/repositories/BeerRepositoryTest.class
+com/toniferr/spring6restmvc/repositories/CustomerRepositoryTest.class
+com/toniferr/spring6restmvc/controller/BeerOrderControllerTestIT.class
+com/toniferr/spring6restmvc/repositories/CategoryRepositoryTest.class
+com/toniferr/spring6restmvc/repositories/BeerOrderRepositoryTest.class
+com/toniferr/spring6restmvc/Spring6RestMvcApplicationTests.class
+com/toniferr/spring6restmvc/bootstrap/BootstrapDataTest.class
+com/toniferr/spring6restmvc/controller/CustomerControllerIT.class
+com/toniferr/spring6restmvc/services/BeerCsvServiceImplTest.class
+com/toniferr/spring6restmvc/controller/BeerControllerIT.class
+com/toniferr/spring6restmvc/controller/BeerControllerTest.class
+com/toniferr/spring6restmvc/controller/BeerControllerRestAssuredTest.class
+com/toniferr/spring6restmvc/controller/BeerControllerRestAssuredTest$TestConfig.class
+com/toniferr/spring6restmvc/controller/CustomerControllerTest.class

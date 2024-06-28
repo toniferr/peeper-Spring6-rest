@@ -1,0 +1,11 @@
+<configuration>
+    <!-- añade appdender para consola. podria ser tamb para archivos por ejmplo pero no se trata aqui -->
+    <appender name="jsonConsoleAppender" class="ch.qos.logback.core.ConsoleAppender">
+        <!-- codificador -->
+        <encoder class="net.logstash.logback.encoder.LogstashEncoder" />
+    </appender>
+
+    <root level="INFO">
+        <appender-ref ref="jsonConsoleAppender" />
+    </root>
+</configuration>

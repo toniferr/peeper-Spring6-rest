@@ -1,0 +1,38 @@
+logging:
+  level:
+    com:
+      toniferr: debug
+    org:
+      zalando:
+        logbook: trace #traza de zalando pra log http request and response
+#logging.level.org.springframework.security=trace -> da mas info de errores 401
+
+spring:
+  flyway:
+    enabled: false
+  security:
+    #spring.security.user.name=user1  -> configura autenticacion basica de springstartersecurity
+    #spring.security.user.password = password
+    oauth2:
+      resourceserver:
+        jwt:
+          issuer-uri : http://localhost:9000
+  cache:
+    cache-names: beerCache,beerListCache,customerCache,customerListCache
+
+#habilitamos otros endpoints de actuator
+management:
+  endpoint:
+    health:
+      probes:
+        enabled: true
+  health:
+    readinessstate:
+      enabled: true
+    livenessstate:
+      enabled: true
+
+#spring.jpa.properties.jakarta.persistence.schema-generation.scripts.action=drop-and-create
+#spring.jpa.properties.jakarta.persistence.schema-generation.scripts.create-source=metadata
+#spring.jpa.properties.jakarta.persistence.schema-generation.scripts.drop-target=drop-and-create.sql
+#spring.jpa.properties.jakarta.persistence.schema-generation.scripts.create-target=drop-and-create.sql

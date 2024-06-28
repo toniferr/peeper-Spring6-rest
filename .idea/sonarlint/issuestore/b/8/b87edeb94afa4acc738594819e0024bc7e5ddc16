@@ -1,0 +1,13 @@
+
+S
+java:S2970*"Complete the assertion.(ä•ÕšJ$a02ecffb-5d65-4e5d-884f-ee64439bab97
+£
+java:S5778/"bRefactor the code of the lambda to have only one invocation possibly throwing a runtime exception.(²ç¢¾ÿÿÿÿÿJ$0bfc2fc3-9f09-4772-9a53-7fbdc8a24339
+£
+java:S57786"bRefactor the code of the lambda to have only one invocation possibly throwing a runtime exception.(²ç¢¾ÿÿÿÿÿJ$7fb73c48-a4cc-4352-ba96-bb4a8f7877d1
+Q
+java:S5838h"Use isZero() instead.(ü ÒJ$58936596-26d6-4768-88e8-6ec7f8fd6d81
+l
+java:S5838o"1Use assertThat(actual).hasSize(expected) instead.(ÖÃíJ$6c1b9740-56d5-40f9-a604-8d1a86fc8095
+£
+java:S5778t"bRefactor the code of the lambda to have only one invocation possibly throwing a runtime exception.(²ç¢¾ÿÿÿÿÿJ$47272f71-be68-466b-bf7e-71a0db5d7993

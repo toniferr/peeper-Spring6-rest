@@ -1,0 +1,7 @@
+
+r
+java:S5838"1Use assertThat(actual).hasSize(expected) instead.(Þ¹¾ÀÿÿÿÿÿJ$674ee207-ad14-4817-87df-267852d47dce
+£
+java:S5778$"bRefactor the code of the lambda to have only one invocation possibly throwing a runtime exception.(æ¸¥°ùÿÿÿÿJ$e4074ba3-efd9-457f-9918-ff0bcc820cad
+o
+java:S1481%".Remove this unused "savedBeer" local variable.(ÂØª»øÿÿÿÿJ$e3b03752-ff07-478b-bcb2-a0eebbb0f3ed

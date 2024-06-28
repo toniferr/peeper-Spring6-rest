@@ -1,0 +1,15 @@
+
+Y
+java:S2970°"Complete the assertion.(æ†«ÆûÿÿÿÿJ$afbb8edc-c523-41c3-a6e4-624d007dd16e
+›
+java:S1607¡"^Either add an explanation about why this test is skipped or remove the "@Disabled" annotation.(úÑêJ$565ac06a-9ee3-49bd-83bb-cd91cfa257a9
+¤
+java:S5778¢"bRefactor the code of the lambda to have only one invocation possibly throwing a runtime exception.(²ç¢¾ÿÿÿÿÿJ$3e766f59-ffbe-4b42-9655-f35c82f412f0
+¤
+java:S5778µ"bRefactor the code of the lambda to have only one invocation possibly throwing a runtime exception.(²ç¢¾ÿÿÿÿÿJ$3e824591-4253-45a7-b66f-4b7845e0b6f2
+¤
+java:S5778â"bRefactor the code of the lambda to have only one invocation possibly throwing a runtime exception.(²ç¢¾ÿÿÿÿÿJ$2845011d-4fc5-46a2-80b0-fd3d309e4b06
+n
+java:S5838ô"1Use assertThat(actual).hasSize(expected) instead.(èÏÅâJ$f6ef4b5b-cef7-4864-853b-09d54b5f36e7
+W
+java:S5838ş"Use isZero() instead.(ÖóÎÈşÿÿÿÿJ$653dbd0c-5ce5-4d5a-a7fc-53a547fdcb12
